@@ -2,6 +2,11 @@
 
 This is a single-page portfolio website built using **React** and **Tailwind CSS**. It showcases my personal projects, skills, and experiences in web development.
 
+![Portfolio Screenshot](./src/Assets/Screenshot%202024-10-20%20231012.png)
+
+![Portfolio Screenshot](./src/Assets/Screenshot%202024-10-20%20232003.png)
+
+![Portfolio Screenshot](./src/Assets/Screenshot%202024-10-20%20232108.png)
 ## Features
 
 - **Responsive Design**: The layout is fully responsive, making it compatible with devices of all sizes.
@@ -25,3 +30,14 @@ Follow these steps to set up and run this project locally:
 
    ```bash
    git clone https://github.com/Aman2125/My_Portfolio.git
+2. Navigate to the project directory:
+   ```bash
+   cd My_Portfolio
+
+3. Install the dependencies:
+   ```bash
+   npm install
+
+4. Run the development server:
+   ```bash
+   npm run dev
