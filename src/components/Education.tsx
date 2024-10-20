@@ -3,17 +3,18 @@ import { BookOpen } from 'lucide-react';
 
 const Education: React.FC = () => {
   const educationData = [
+    
     {
-      degree: "Master of Computer Applications",
-      institution: "XYZ University",
-      year: "2018 - 2020",
-      description: "Specialized in Advanced Web Technologies and Data Structures"
+      degree: "BTech in Information Technology",
+      institution: "Rajiv Gandhi Institute Of Petroleum Technology",
+      year: "2022 - 2026",
+      description: "Focused on Programming Fundamentals and Database Management"
     },
     {
-      degree: "Bachelor of Computer Applications",
-      institution: "ABC College",
-      year: "2015 - 2018",
-      description: "Focused on Programming Fundamentals and Database Management"
+      degree: "High school",
+      institution: "Little Flower House , Varanasi",
+      year: "2019 - 2021",
+      description: "Passing percentage 94"
     }
   ];
 

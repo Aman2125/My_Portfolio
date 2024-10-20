@@ -7,15 +7,15 @@ const projects = [
     title: 'E-commerce Platform',
     description: 'A fully responsive online store built with React, Node.js, and MongoDB',
     image: 'https://images.unsplash.com/photo-1557821552-17105176677c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80',
-    github: 'https://github.com/yourusername/ecommerce-platform',
+    github: 'https://github.com/Aman2125/E-Commerce',
     live: 'https://ecommerce-platform-demo.netlify.app'
   },
   {
     id: 2,
-    title: 'Task Management App',
+    title: 'Journal and To-do app',
     description: 'A productivity app with drag-and-drop functionality using React DnD and Redux',
     image: 'https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80',
-    github: 'https://github.com/yourusername/task-management-app',
+    github: 'https://github.com/Aman2125/Todo-and-Journal',
     live: 'https://task-management-demo.netlify.app'
   },
   {

@@ -25,7 +25,7 @@ const Contact: React.FC = () => {
             <h3 className="text-xl font-semibold mb-4 dark:text-white">Contact Information</h3>
             <div className="flex items-center mb-4">
               <Mail size={20} className="text-blue-500 mr-2" />
-              <span className="dark:text-gray-300">aman.gupta@example.com</span>
+              <span className="dark:text-gray-300">amankumar943087@gmail.com</span>
             </div>
             <div className="flex items-center mb-4">
               <Phone size={20} className="text-blue-500 mr-2" />
@@ -33,7 +33,7 @@ const Contact: React.FC = () => {
             </div>
             <div className="flex items-center">
               <MapPin size={20} className="text-blue-500 mr-2" />
-              <span className="dark:text-gray-300">New York, NY, USA</span>
+              <span className="dark:text-gray-300">Lucknow , India</span>
             </div>
           </div>
           <form onSubmit={handleSubmit} className="md:w-1/2">
