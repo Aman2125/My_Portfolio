@@ -7,7 +7,7 @@ const About: React.FC = () => {
         <h2 className="text-3xl font-bold text-center mb-12 dark:text-white">About Me</h2>
         <div className="flex flex-col md:flex-row items-center">
           <div className="md:w-1/3 mb-8 md:mb-0">
-            <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80" alt="Aman Kumar Gupta" className="rounded-full w-48 h-48 object-cover mx-auto shadow-lg" />
+            <img src="../src/Assets/amanimg.jpg" alt="Aman Kumar Gupta" className="rounded-full w-48 h-48 object-cover mx-auto shadow-lg" />
           </div>
           <div className="md:w-2/3 md:pl-12">
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed mb-4">
