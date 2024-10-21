@@ -1,0 +1,33 @@
+# Exclude system directories
+Application Data/
+AppData/
+Contacts/
+Cookies/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.DAT
+Pictures/
+Saved Games/
+Searches/
+SendTo/
+Start Menu/
+Templates/
+Videos/
+.vscode/
+node_modules/
+
+# Exclude specific file types
+*.log
+*.pyc
+*.class
+*.swp
+*.pdf
+*.docx
+*.xlsx
+
+# Exclude config or sensitive files
+.env
